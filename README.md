@@ -31,3 +31,9 @@ docker-compose up --build
    `cd datapulse/frontend && npm install && npm run dev`
 2. AI Service:
    `cd datapulse/ai-service && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python main.py`
+   
+##Prime Makers
+1. Anubhav Arora
+2. Alam
+3. 
+4. 
