@@ -35,5 +35,5 @@ docker-compose up --build
 ##Prime Makers
 1. Anubhav Arora
 2. Alam
-3. 
-4. 
+3. Krish
+4. Robin
